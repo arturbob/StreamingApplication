@@ -1,0 +1,5 @@
+pl/ing/streaming/app/service/MovieService.class
+pl/ing/streaming/app/MovieApplication.class
+pl/ing/streaming/app/controller/MovieController.class
+pl/ing/streaming/app/repository/MovieRepository.class
+pl/ing/streaming/app/model/Movie.class
